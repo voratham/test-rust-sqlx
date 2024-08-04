@@ -1,5 +1,8 @@
-# 🦀 How to run 🦀 
+# 🦀 Example in case rust + using sqlx on mysql  🦀 
+- I try poc CRUD operation on rust with mysql
 
+
+## How to run
 ```sh
 docker-compose up -d # for start mysql
 cargo run
